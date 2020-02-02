@@ -1,0 +1,3 @@
+[submodule "plugin.video.nfogen"]
+	path = plugin.video.nfogen
+	url = git@github.com:kokmok/plugin.video.nfogen.git
